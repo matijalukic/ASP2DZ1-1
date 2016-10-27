@@ -7,7 +7,11 @@ Realise BST with:
 - Insert key( if there is key, insert as ancestor )
 - Delete key(node) using ancestor
 - Determine AVL node balance criteria
+
+
 Using:
+
+
 - Without parent pointers
 - Node limiters
 - Without recursion
